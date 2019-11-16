@@ -129,7 +129,7 @@
                             android:layout_marginTop="8dp"
                             android:layout_marginRight="8dp"
                             android:layout_weight="0.5"
-                            android:src="@drawable/ic_fullscreen_black_24dp" />
+                            android:src="@drawable/ic_search_black_24dp" />
                     </LinearLayout>
                 </androidx.constraintlayout.widget.ConstraintLayout>
 
